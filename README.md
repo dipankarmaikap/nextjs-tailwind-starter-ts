@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped TailwindCSS and Ty
 Copy this starter
 
 ```bash
-git clone https://github.com/dipankarmaikap/Nextjs-tailwind-starter-TS.git project-name
+git clone https://github.com/dipankarmaikap/Nextjs-tailwind-starter-TS.git project-name && cd project-name && git remote remove origin
 ```
 Install all packages
 
